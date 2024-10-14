@@ -2,5 +2,7 @@
 data/
 *.tar.gz
 code/baseline.ipynb
-/notebooks/maps/
+notebooks/
+# /notebooks/maps/
 /code/wandb
+feat_eng/fe_final.csv
