@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=max&height=250&section=header&text=수도권-아파트-전세가-예측-모델&desc=RecSys05-오곡밥&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDDFE0,100:B7B7B7&width=max&height=250&section=header&text=비트코인-상승/하락-시계열분류예측&desc=RecSys05-오곡밥&fontSize=40&fontColor=4A4947&&fontAlignY=40)
 
 ## 🍚 팀원 소개
 
@@ -63,15 +63,14 @@
 
 
 ### 모델 학습 및 평가
-- <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/LightGBM-00B050.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF5722.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CatBoost-03A9F4.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-tabular-EE4C2D.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/tab-transformer-pytorch-EE4C2E.svg?style=flat-square&logoColor=white"/>
+- <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/LightGBM-00B050.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF5722.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CatBoost-03A9F4.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorchtabular-EC4E2A.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/tabtransformerpytorch-EE1C5E.svg?style=flat-square&logoColor=white"/>
 
   
 ### 시각화 도구
 - <img src="https://img.shields.io/badge/matplotlib-FFD700.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn-FFD705.svg?style=flat-square&logoColor=white"/>
 
 ### 모델 최적화 및 클러스터링
-- **Optuna**, **hdbscan**, **pmdarima**, **umap-learn**  
-  <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/hdbscan-009688.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/pmdarima-8E44AD.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/umap--learn-2ECC71.svg?style=flat-square&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/hdbscan-009688.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/pmdarima-8E44AD.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/umap--learn-2ECC71.svg?style=flat-square&logoColor=white"/>
 
 ### 개발 환경
 - <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
