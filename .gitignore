@@ -4,3 +4,5 @@ data/
 code/baseline.ipynb
 /notebooks/maps/
 /code/wandb
+notebooks/
+code/
