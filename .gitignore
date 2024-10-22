@@ -1,8 +1,6 @@
 .venv/
 data/
 *.tar.gz
-code/baseline.ipynb
-/notebooks/maps/
-/code/wandb
 notebooks/
-code/
+feat_eng/fe_final.csv
+feat_eng/cluster_data
