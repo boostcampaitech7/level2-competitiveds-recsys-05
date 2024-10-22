@@ -54,20 +54,20 @@
 
 ## 🔧 기술 스택
 
-#### 프로그래밍 언어 <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+#### 프로그래밍 언어 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/>
 
-#### 데이터 분석 및 전처리 <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=flat-square&logo=pandas&logoColor=white"/>
+#### 데이터 분석 및 전처리 <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat-square&logo=scipy&logoColor=white"/>
 
 
-#### 모델 학습 및 평가 <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat-square&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/LightGBM-00B050.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF5722.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CatBoost-03A9F4.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pytorchtabular-EC4E2A.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/tabtransformerpytorch-EE1C5E.svg?style=flat-square&logoColor=white"/>
+#### 모델 학습 및 평가 <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-41454A.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-1578D3.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CatBoost-FECC00.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch--tabular-EE4C2C.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/tab--transformer--pytorch-EE4C2C.svg?style=flat-square&logoColor=white"/>
 
   
-#### 시각화 도구 <img src="https://img.shields.io/badge/matplotlib-FFD700.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn-FFD705.svg?style=flat-square&logoColor=white"/>
+#### 시각화 도구 <img src="https://img.shields.io/badge/Matplotlib-3F4F75.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn-221E68.svg?style=flat-square&logoColor=white"/>
 
-#### 모델 최적화 및 클러스터링 <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-0071C5.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/hdbscan-009688.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/pmdarima-8E44AD.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/umap--learn-2ECC71.svg?style=flat-square&logoColor=white"/>
+#### 모델 최적화 및 클러스터링 <img src="https://img.shields.io/badge/Optuna-13448F.svg?style=flat-square&logo=optuna&logoColor=white"/> <img src="https://img.shields.io/badge/HDBSCAN-F7931E.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Pmdarima-3775A9.svg?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/umap--learn-34567C.svg?style=flat-square&logoColor=white"/>
 
-#### 개발 환경 <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
+#### 개발 환경 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
 
-#### 실험 관리 및 추적 <img src="https://img.shields.io/badge/weightsandbiases-FFBE00.svg?style=flat-square&logo=pandas&logoColor=black"/>
+#### 실험 관리 및 추적 <img src="https://img.shields.io/badge/Weights&Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black"/>
 
-#### 기타 유틸리티 <img src="https://img.shields.io/badge/tqdm-FFC107.svg?style=flat-square&logo=tqdm&logoColor=black"/> <img src="https://img.shields.io/badge/openpyxl-1D8348.svg?style=flat-square&logoColor=white"/>
+#### 기타 유틸리티 <img src="https://img.shields.io/badge/tqdm-FFC107.svg?style=flat-square&logo=tqdm&logoColor=black"/> <img src="https://img.shields.io/badge/OpenPyXL-013243.svg?style=flat-square&logoColor=white"/>
