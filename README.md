@@ -42,7 +42,35 @@
 
 ## 📂폴더구조
 ```
-정리전
+# level2-competitiveds-recsys-05/
+│
+├── .github/
+│   └── .keep
+│
+├── code/
+│   └── requirements.txt
+│
+├── feat_eng/
+│   ├── __pycache__/
+│   │   ├── feat_eng.cpython-311.pyc
+│   │   └── utils.cpython-311.pyc
+│   ├── FE_gw.ipynb    # 기본 데이터 전처리 및 POI 데이터를 이용한 피처 생성
+│   ├── feat_eng.py    # 주요 피처 엔지니어링 로직 (단지 ID 생성, POI 거리 등)
+│   ├── feat_eng2.ipynb # 클러스터 기반 Prophet 모델을 이용한 피처 생성
+│   └── utils.py       # 메모리 사용량 최적화 유틸리티 함수
+│
+├── modeling/
+│   ├── CatBoost.ipynb
+│   ├── Ensemble.ipynb
+│   ├── FTTransformer(auto).ipynb
+│   ├── FTTransformer(torch).ipynb
+│   ├── LGBM.ipynb
+│   ├── LGMN_deposit_piecewise.ipynb
+│   ├── TabNet.ipynb
+│   └── XGBoost.ipynb
+│
+├── .gitignore
+└── README.md
 ```
 </br>
 
