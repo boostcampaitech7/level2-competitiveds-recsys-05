@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDDFE0,100:B7B7B7&width=max&height=175&section=header&text=EDA,피처엔지니어링&desc=RecSys05-오곡밥&fontSize=30&fontColor=4A4947&&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDDFE0,100:B7B7B7&width=max&height=175&section=header&text=EDA,피처엔지니어링&desc=수도권아파트-전세가예측모델&fontSize=30&fontColor=4A4947&&fontAlignY=40)
 
 ## 📂 피처 엔지니어링 개요
 
