@@ -1,4 +1,41 @@
+# Data Manipulation & Analysis
 pandas==2.2.2
 numpy==1.26.4
-lightgbm==4.4.0
+scipy==1.14.1
+polars==1.8.2
+
+# Machine Learning & AI
 scikit-learn==1.5.0
+xgboost==2.1.1
+lightgbm==4.4.0
+catboost==1.2.7
+keras==3.6.0
+torch==2.4.1
+
+# Data Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Model Evaluation & Optimization
+optuna==4.0.0
+hdbscan==0.8.38
+pmdarima==2.0.4
+
+# Jupyter & Notebook Tools
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# Tracking & Experimentation
+wandb==0.18.3
+
+# Clustering & Dimensionality Reduction
+umap-learn==0.5.6
+
+# Other Utilities
+tqdm==4.66.5
+openpyxl==3.1.5
+
+# Additional Packages
+pytorch-tabular==1.1.0
+tab-transformer-pytorch==0.3.0
+prophet==1.1.6
