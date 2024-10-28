@@ -4,13 +4,13 @@
 
 ### modeling 디렉토리 개요
 
-- **CatBoost.ipynb**: CatBoost 모델을 사용한 보증금 예측 및 Optuna를 통한 하이퍼파라미터 최적화
-- **Ensemble.ipynb**: LGBM, XGBoost, CatBoost 모델을 앙상블한 보증금 예측 및 Optuna를 통한 하이퍼파라미터 최적화, **최종 제출 코드**
-- **FTTransformer(auto).ipynb**: pytorch_tabular를 통해 TF-Transformer 모델을 사용한 보증금 예측 및 Optuna를 통한 하이퍼파라미터 최적화
-- **FTTransformer(torch).ipynb**: rtdl_revisiting_models를 통해 TF-Transformer 모델을 사용한 보증금 예측
-- **LGBM.ipynb**: LGBM 모델을 사용한 보증금 예측 및 Optuna를 통한 하이퍼파라미터 최적화
-- **LGMN_deposit_piecewise.ipynb**: LGBM 모델을 사용한 보증금 구간별 예측
-- **Stacking_Ensemble.ipynb**: LGBM, XGBoost, CatBoost 모델을 OOF 스태킹한 보증금 예측
-- **TabNet.ipynb**: TabNet 모델을 사용한 보증금 예측
-- **XGBoost.ipynb**: XGBoost 모델을 사용한 보증금 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+- **CatBoost.ipynb**: CatBoost 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+- **Ensemble.ipynb**: LGBM, XGBoost, CatBoost 모델을 앙상블한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화, **최종 제출 코드**
+- **FTTransformer(auto).ipynb**: pytorch_tabular를 통해 TF-Transformer 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+- **FTTransformer(torch).ipynb**: rtdl_revisiting_models를 통해 TF-Transformer 모델을 사용한 전세가 예측
+- **LGBM.ipynb**: LGBM 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+- **LGMN_deposit_piecewise.ipynb**: LGBM 모델을 사용한 전세가 구간별 예측
+- **Stacking_Ensemble.ipynb**: LGBM, XGBoost, CatBoost 모델을 OOF 스태킹한 전세가 예측
+- **TabNet.ipynb**: TabNet 모델을 사용한 전세가 예측
+- **XGBoost.ipynb**: XGBoost 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
 - **cluster_piecewise.ipynb**: LGBM, ElasticNet 모델을 클러스터별 piecewise 예측 
