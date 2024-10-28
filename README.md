@@ -54,20 +54,22 @@
 │   ├── __pycache__/
 │   │   ├── feat_eng.cpython-311.pyc
 │   │   └── utils.cpython-311.pyc
-│   ├── FE_gw.ipynb    # 기본 데이터 전처리 및 POI 데이터를 이용한 피처 생성
-│   ├── feat_eng.py    # 주요 피처 엔지니어링 로직 (단지 ID 생성, POI 거리 등)
-│   ├── feat_eng2.ipynb # 클러스터 기반 Prophet 모델을 이용한 피처 생성
-│   └── utils.py       # 메모리 사용량 최적화 유틸리티 함수
+│   ├── FE_gw.ipynb                     # 기본 데이터 전처리 및 POI 데이터를 이용한 피처 생성
+│   ├── feat_eng.py                     # 주요 피처 엔지니어링 로직 (단지 ID 생성, POI 거리 등)
+│   ├── feat_eng2.ipynb                 # 클러스터 기반 Prophet 모델을 이용한 피처 생성
+│   └── utils.py                        # 메모리 사용량 최적화 유틸리티 함수
 │
 ├── modeling/
-│   ├── CatBoost.ipynb
-│   ├── Ensemble.ipynb
-│   ├── FTTransformer(auto).ipynb
-│   ├── FTTransformer(torch).ipynb
-│   ├── LGBM.ipynb
-│   ├── LGMN_deposit_piecewise.ipynb
-│   ├── TabNet.ipynb
-│   └── XGBoost.ipynb
+│   ├── CatBoost.ipynb                  # CatBoost 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+│   ├── Ensemble.ipynb                  # LGBM, XGBoost, CatBoost 모델을 앙상블한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화, 최종 제출 코드
+│   ├── FTTransformer(auto).ipynb       # pytorch_tabular를 통해 TF-Transformer 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+│   ├── FTTransformer(torch).ipynb      # rtdl_revisiting_models를 통해 TF-Transformer 모델을 사용한 전세가 예측
+│   ├── LGBM.ipynb                      # LGBM 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+│   ├── LGMN_deposit_piecewise.ipynb    # LGBM 모델을 사용한 전세가 구간별 예측
+│   ├── Stacking_Ensemble.ipynb         # LGBM, XGBoost, CatBoost 모델을 OOF 스태킹한 전세가 예측
+│   ├── TabNet.ipynb                    # TabNet 모델을 사용한 전세가 예측
+│   ├── XGBoost.ipynb                   # XGBoost 모델을 사용한 전세가 예측 및 Optuna를 통한 하이퍼파라미터 최적화
+│   └── cluster_piecewise.ipynb         # LGBM, ElasticNet 모델을 클러스터별 piecewise 예측
 │
 ├── .gitignore
 └── README.md
